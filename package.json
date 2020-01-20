@@ -1,0 +1,19 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "simple to-do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gengar-i/To-Do-App.git"
+  },
+  "author": "Robert Swoboda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gengar-i/To-Do-App/issues"
+  },
+  "homepage": "https://github.com/Gengar-i/To-Do-App#readme"
+}
